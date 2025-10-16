@@ -5,7 +5,7 @@ To perform an asset-oriented risk assessment of cloud storage assets including:
 - AWS Elastic Block Store (EBS)
 - AWS Elastic File System (EFS)
 - Azure Files (File Storage)
-
+ 
 
 
 ## Pre-requisites
